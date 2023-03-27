@@ -10,7 +10,7 @@ public interface Volatile {
 }
 //L' interfaccia Volatile contiene il metodo Volo
 ```
-Creo la classe `Ucielo` e ci implemento il metodo `volo;`
+Creo la classe `Ucielo` e ci implemento il metodo `volo`;
 ```java
 public class Ucielo implements Volatile{
     @Override
